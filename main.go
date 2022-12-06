@@ -1,1 +1,3 @@
+package min
+
 func main ()  {} 
